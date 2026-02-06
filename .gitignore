@@ -416,3 +416,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Unity project essentials
+!Packages/
+!Packages/manifest.json
+!ProjectSettings/
+!ProjectSettings/ProjectVersion.txt
